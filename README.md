@@ -14,11 +14,18 @@ To help Reddit understand their topics, categorize comments attitude, and predic
 All analysis and data collection is found within CODE/Analysis
 
 ## Modelling
-### Sentiment Analysis
+#### Sentiment Analysis
 * Understand people's opinions from a post
 * Potentially help Reddit gain an overview of the wider public opinion behind certain topics
+* Transformer pipeline:
+  * Regular Expression Tokenizer
+  * StopWords Tokenizer
+  * CountVectorizer
+  * StringIndexer
+  * HashingTF
+  * DF
 
-### Regression Analysis
+#### Regression Analysis
 * Based on the body of the post, predict a post’s success before it’s submitted
 * Potentially help Redditors gain upvotes, and predict which posts will get popular enough to hit the front page
 
