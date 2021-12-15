@@ -32,4 +32,3 @@ All analysis and data collection is found within *jupyter_notebooks* folder.
 * Based on the body of the post, predict a post’s success before it’s submitted
 * Potentially help Redditors gain upvotes, and predict which posts will get popular enough to hit the front page
 
-## Structure of the code
