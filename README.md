@@ -7,11 +7,11 @@ To help Reddit understand their topics, categorize comments attitude, and predic
 * Predict scores for each comment accordingly.
 
 ## Big Data Platforms
-* Google Cloud Platform
+* Google Cloud Platform (BigQuery, Dataproc, Cloud SQL)
 * UChicago Research Computing Center
 
 ## Data and Analysis
-All analysis and data collection is found within CODE/Analysis
+All analysis and data collection is found within *jupyter_notebooks* folder.
 
 ## Modelling
 #### Sentiment Analysis
