@@ -12,6 +12,9 @@ To help Reddit understand their topics, categorize comments attitude, and predic
 
 ## Data and Analysis
 All analysis and data collection is found within *jupyter_notebooks* folder.
+* Data Source:
+  * https://www.kaggle.com/kaggle/reddit-comments-may-2015 
+  * https://console.cloud.google.com/bigquery?project=fh-bigquery&page=table&t=2015_05&d=reddit_comments&p=fh-bigquery&redirect_from_classic=true 
 
 ## Modelling
 #### Sentiment Analysis
